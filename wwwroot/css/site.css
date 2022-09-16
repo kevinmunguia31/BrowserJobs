@@ -38,6 +38,9 @@ body {
   color: cornflowerblue !important;
 }
 
-.navbar-toggler-icon span{
-  color: white !important;
+ul li a{
+  margin-right: 15px !important;
+  
 }
+
+
