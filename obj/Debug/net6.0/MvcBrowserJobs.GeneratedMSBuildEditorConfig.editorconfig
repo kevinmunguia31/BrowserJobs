@@ -11,9 +11,13 @@ build_property.RootNamespace = MvcBrowserJobs
 build_property.ProjectDir = /home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = /home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs
 build_property._RazorSourceGeneratorDebug = 
+
+[/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
 
 [/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
@@ -25,6 +29,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/Views/Shared/_LayoutCustom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXRDdXN0b20uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/Views/Shared/_ValidationScriptsPartial.cshtml]

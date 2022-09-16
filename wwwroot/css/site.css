@@ -15,4 +15,29 @@ html {
 
 body {
   margin-bottom: 60px;
+  font-family: 'Poppins', sans-serif;
+  background-image: url('../img/bg4.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+/*   backdrop-filter: blur(5px); */
+}
+
+.header .navbar {
+  background-color: transparent !important;
+  margin: auto !important;
+  
+}
+
+.header .navbar a{
+  color: white !important;
+}
+
+.header .navbar a:hover{
+  color: cornflowerblue !important;
+}
+
+.navbar-toggler-icon span{
+  color: white !important;
 }
