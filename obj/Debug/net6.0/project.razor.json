@@ -16313,6 +16313,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/kevin/Documentos/ASP.NET/BrowserJobs/Views/Jobs/Index.cshtml",
+      "TargetPath": "Views\\Jobs\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/kevin/Documentos/ASP.NET/BrowserJobs/Views/Home/Contact.cshtml",
       "TargetPath": "Views\\Home\\Contact.cshtml",
       "FileKind": "mvc"

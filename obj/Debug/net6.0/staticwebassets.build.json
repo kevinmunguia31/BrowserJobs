@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5524lO3N3Tj5eZu8Rum6xVmIkOWk1TvHdGPAfsZO02w=",
+  "Hash": "8FQwOwVghwV3Nj4PQtBkFCyoa1REJT+WRw7jM3yGmy0=",
   "Source": "MvcBrowserJobs",
   "BasePath": "_content/MvcBrowserJobs",
   "Mode": "Default",
@@ -168,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/bg4.png"
+    },
+    {
+      "Identity": "/home/kevin/Documentos/ASP.NET/BrowserJobs/wwwroot/img/doodles.png",
+      "SourceId": "MvcBrowserJobs",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/kevin/Documentos/ASP.NET/BrowserJobs/wwwroot/",
+      "BasePath": "_content/MvcBrowserJobs",
+      "RelativePath": "img/doodles.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/doodles.png"
     },
     {
       "Identity": "/home/kevin/Documentos/ASP.NET/BrowserJobs/wwwroot/img/image.png",

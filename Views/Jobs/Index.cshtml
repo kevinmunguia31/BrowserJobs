@@ -1,0 +1,189 @@
+@{
+    ViewData["Title"] = "Browser Jobs NIC";
+}
+
+@{
+    Layout = "_LayoutCustom";
+}
+
+<h3><i class="fa-solid fa-magnifying-glass-location"></i> Busca Profesionales o Ténicos Por:</h1>
+<div class="input-group mb-3 ">
+  <label class="input-group-text" for="inputGroupSelect01">Profesiones</label>
+  <select class="form-select" id="inputGroupSelect01">
+    <option selected>Seleccione una Profesión</option>
+    <option value="1">Soldador</option>
+    <option value="2">Abogado</option>
+    <option value="3">Sastre</option>
+    <option value="3">Programador</option>
+    <option value="3">Sastre</option>
+    <option value="3">Chef</option>
+  </select>
+  <label class="input-group-text" for="inputGroupSelect01">Departamento</label>
+  <select class="form-select" id="inputGroupSelect01">
+    <option selected>Seleccione un Departamento</option>
+    <option value="1">Chinandega</option>
+    <option value="2">León</option>
+    <option value="3">Managua</option>
+    <option value="3">Esteli</option>
+    <option value="3">Masaya</option>
+    <option value="3">Granada</option>
+  </select>
+  <label class="input-group-text" for="inputGroupSelect01">Municipio</label>
+  <select class="form-select" id="inputGroupSelect01">
+    <option selected>Seleccione un Municipio</option>
+    <option value="1">El Viejo</option>
+    <option value="2">Chinandega</option>
+    <option value="3">Chichigalpa</option>
+    <option value="3">Nagarote</option>
+    <option value="3">Nindiri</option>
+    <option value="3">Jinotepe</option>
+  </select>
+
+  <button class="btn btn-primary btn-lg" type="submit"><i class="fa-brands fa-searchengin"></i> Buscar</button>
+</div>
+
+<hr>
+@* Perfiles de los Usuarios *@
+<div class="container profile-page">
+    <div class="row">
+        <div class="col-xl-6 col-lg-7 col-md-12">
+            <div class="card profile-header">
+                <div class="body">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-12">
+                            <div class="profile-image float-md-right"> <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt=""> </div>
+                        </div>
+                        <div class="col-lg-8 col-md-8 col-12">
+                            <h4 class="m-t-0 m-b-0"><strong>Kevin Munguia</strong></h4>
+                            <span class="job_post">Web Development</span>
+                            <p>El Viejo, <span>Chinandega</span></p>
+                            <div>
+                                <button class="btn btn-primary btn-round">Ver Perfil <i class="fa-solid fa-eye"></i></button>
+                            </div>
+                            <form>
+                                <p class="clasificacion">
+                                    <input id="radio1" type="radio" name="estrellas" value="5"><!--
+                                    --><label for="radio1">★</label><!--
+                                    --><input id="radio2" type="radio" name="estrellas" value="4"><!--
+                                    --><label for="radio2">★</label><!--
+                                    --><input id="radio3" type="radio" name="estrellas" value="3"><!--
+                                    --><label for="radio3">★</label><!--
+                                    --><input id="radio4" type="radio" name="estrellas" value="2"><!--
+                                    --><label for="radio4">★</label><!--
+                                    --><input id="radio5" type="radio" name="estrellas" value="1"><!--
+                                    --><label for="radio5">★</label>
+                                </p>
+                            </form>
+                        </div>                
+                    </div>
+                </div>                    
+            </div>
+        </div>
+        
+        
+        <div class="col-xl-6 col-lg-7 col-md-12">
+            <div class="card profile-header">
+                <div class="body">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-12">
+                            <div class="profile-image float-md-right"> <img src="https://bootdey.com/img/Content/avatar/avatar2.png" alt=""> </div>
+                        </div>
+                        <div class="col-lg-8 col-md-8 col-12">
+                            <h4 class="m-t-0 m-b-0"><strong>Jeremy Berrios</strong></h4>
+                            <span class="job_post">Analista de Datos</span>
+                            <p>Nagarote, <span>León</span></p>
+                            <div>
+                                <button class="btn btn-primary btn-round">Ver Perfil <i class="fa-solid fa-eye"></i></button>
+                            </div>
+                            <form>
+                                <p class="clasificacion">
+                                    <input id="radio1" type="radio" name="estrellas" value="5"><!--
+                                    --><label for="radio1">★</label><!--
+                                    --><input id="radio2" type="radio" name="estrellas" value="4"><!--
+                                    --><label for="radio2">★</label><!--
+                                    --><input id="radio3" type="radio" name="estrellas" value="3"><!--
+                                    --><label for="radio3">★</label><!--
+                                    --><input id="radio4" type="radio" name="estrellas" value="2"><!--
+                                    --><label for="radio4">★</label><!--
+                                    --><input id="radio5" type="radio" name="estrellas" value="1"><!--
+                                    --><label for="radio5">★</label>
+                                </p>
+                            </form>
+                        </div>                
+                    </div>
+                </div>                    
+            </div>
+        </div>
+    </div>
+        
+    <div class="row">
+        <div class="col-xl-6 col-lg-7 col-md-12">
+            <div class="card profile-header">
+                <div class="body">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-12">
+                            <div class="profile-image float-md-right"> <img src="https://bootdey.com/img/Content/avatar/avatar3.png" alt=""> </div>
+                        </div>
+                        <div class="col-lg-8 col-md-8 col-12">
+                            <h4 class="m-t-0 m-b-0"><strong>Idalia Luna</strong></h4>
+                            <span class="job_post">Ui UX Designer</span>
+                            <p>El Viejo, <span>Chinandega</span></p>
+                            <div>
+                                <button class="btn btn-primary btn-round">Ver Perfil <i class="fa-solid fa-eye"></i></button>
+                            </div>
+                            <form>
+                                <p class="clasificacion">
+                                    <input id="radio1" type="radio" name="estrellas" value="5"><!--
+                                    --><label for="radio1">★</label><!--
+                                    --><input id="radio2" type="radio" name="estrellas" value="4"><!--
+                                    --><label for="radio2">★</label><!--
+                                    --><input id="radio3" type="radio" name="estrellas" value="3"><!--
+                                    --><label for="radio3">★</label><!--
+                                    --><input id="radio4" type="radio" name="estrellas" value="2"><!--
+                                    --><label for="radio4">★</label><!--
+                                    --><input id="radio5" type="radio" name="estrellas" value="1"><!--
+                                    --><label for="radio5">★</label>
+                                </p>
+                            </form>
+                        </div>                
+                    </div>
+                </div>                    
+            </div>
+        </div>
+        
+        
+        <div class="col-xl-6 col-lg-7 col-md-12">
+            <div class="card profile-header">
+                <div class="body">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-12">
+                            <div class="profile-image float-md-right"> <img src="https://bootdey.com/img/Content/avatar/avatar6.png" alt=""> </div>
+                        </div>
+                        <div class="col-lg-8 col-md-8 col-12">
+                            <h4 class="m-t-0 m-b-0"><strong>Joseph Rueda</strong></h4>
+                            <span class="job_post">Abogado</span>
+                            <p>Chichigalpa, <span>Chinandega</span></p>
+                            <div>
+                                <button class="btn btn-primary btn-round">Ver Perfil <i class="fa-solid fa-eye"></i></button>
+                            </div>
+                            <form>
+                                <p class="clasificacion">
+                                    <input id="radio1" type="radio" name="estrellas" value="5"><!--
+                                    --><label for="radio1">★</label><!--
+                                    --><input id="radio2" type="radio" name="estrellas" value="4"><!--
+                                    --><label for="radio2">★</label><!--
+                                    --><input id="radio3" type="radio" name="estrellas" value="3"><!--
+                                    --><label for="radio3">★</label><!--
+                                    --><input id="radio4" type="radio" name="estrellas" value="2"><!--
+                                    --><label for="radio4">★</label><!--
+                                    --><input id="radio5" type="radio" name="estrellas" value="1"><!--
+                                    --><label for="radio5">★</label>
+                                </p>
+                            </form>
+                        </div>                
+                    </div>
+                </div>                    
+            </div>
+        </div>
+	</div>
+</div>
