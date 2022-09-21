@@ -901,19 +901,19 @@
     ]
   },
   "packageFolders": {
-    "/home/sansepi01/.nuget/packages/": {}
+    "/home/kevin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/MvcBrowserJobs.csproj",
+      "projectUniqueName": "/home/kevin/Documentos/ASP.NET/BrowserJobs/MvcBrowserJobs.csproj",
       "projectName": "MvcBrowserJobs",
-      "projectPath": "/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/MvcBrowserJobs.csproj",
-      "packagesPath": "/home/sansepi01/.nuget/packages/",
-      "outputPath": "/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/obj/",
+      "projectPath": "/home/kevin/Documentos/ASP.NET/BrowserJobs/MvcBrowserJobs.csproj",
+      "packagesPath": "/home/kevin/.nuget/packages/",
+      "outputPath": "/home/kevin/Documentos/ASP.NET/BrowserJobs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/sansepi01/.nuget/NuGet/NuGet.Config"
+        "/home/kevin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

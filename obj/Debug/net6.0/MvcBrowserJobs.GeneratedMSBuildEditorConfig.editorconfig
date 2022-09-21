@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MvcBrowserJobs
 build_property.RootNamespace = MvcBrowserJobs
-build_property.ProjectDir = /home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/
+build_property.ProjectDir = /home/kevin/Documentos/ASP.NET/BrowserJobs/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = /home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs
+build_property.MSBuildProjectDirectory = /home/kevin/Documentos/ASP.NET/BrowserJobs
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/Views/Home/About.cshtml]
+[/home/kevin/Documentos/ASP.NET/BrowserJobs/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/Views/Home/Contact.cshtml]
+[/home/kevin/Documentos/ASP.NET/BrowserJobs/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/Views/Home/Index.cshtml]
+[/home/kevin/Documentos/ASP.NET/BrowserJobs/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/Views/Home/Privacy.cshtml]
+[/home/kevin/Documentos/ASP.NET/BrowserJobs/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/Views/Shared/Error.cshtml]
+[/home/kevin/Documentos/ASP.NET/BrowserJobs/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/Views/Shared/_LayoutCustom.cshtml]
+[/home/kevin/Documentos/ASP.NET/BrowserJobs/Views/Shared/_LayoutCustom.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXRDdXN0b20uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/home/kevin/Documentos/ASP.NET/BrowserJobs/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/Views/_ViewImports.cshtml]
+[/home/kevin/Documentos/ASP.NET/BrowserJobs/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/Views/_ViewStart.cshtml]
+[/home/kevin/Documentos/ASP.NET/BrowserJobs/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sansepi01/Documentos/ASP.NET/MvcBrowserJobs/Views/Shared/_Layout.cshtml]
+[/home/kevin/Documentos/ASP.NET/BrowserJobs/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-byddukbfne
