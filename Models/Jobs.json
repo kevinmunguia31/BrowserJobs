@@ -1,0 +1,32 @@
+[
+    {
+        "Id": 1,
+        "Nombre": "Kevin Munguia",
+        "Municipio": "El Viejo",
+        "Departamento": "Chinandega",
+        "Categoria": "Profesional",
+        "Profesion": "Web Development",
+        "Perfil": "https://www.bootdey.com/img/Content/avatar/avatar7.png",
+        "Estrellas": 5
+    },
+    {
+        "Id": 2,
+        "Nombre": "Idalia Luna",
+        "Municipio": "Chinandega",
+        "Departamento": "Chinandega",
+        "Categoria": "Tecnico",
+        "Profesion": "Sastre",
+        "Perfil": "https://www.bootdey.com/img/Content/avatar/avatar3.png",
+        "Estrellas": 5
+    },
+    {
+        "Id": 3,
+        "Nombre": "Jeremy Berrios",
+        "Municipio": "León",
+        "Departamento": "León",
+        "Categoria": "Profesional",
+        "Profesion": "Programador",
+        "Perfil": "https://www.bootdey.com/img/Content/avatar/avatar1.png",
+        "Estrellas": 5
+    }
+]

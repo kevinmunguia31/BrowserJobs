@@ -56,7 +56,7 @@ ul li a{
   display: inline-block;
   position: relative;
   width: 100%;
-  box-shadow: none;
+  box-shadow: 1px;
 }
 .card .body {
   font-size: 14px;

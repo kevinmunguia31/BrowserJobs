@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QhThbWIHr7q5jqhUjXoqoOfTXgP7lU+jwUZlMmZVcw2b9y2G2gFZzTLBr/U3jDtzlgGaBr3ySJh6Cw+wKQgnWA==",
+  "dgSpecHash": "GECWS7Re5PQghv2a0EYEmD1gou6cTgj/c+lU40qUR21paKwwOKIxaozpx9AakbLz7feI+RrWUuiW8aCQVv4PxQ==",
   "success": true,
   "projectFilePath": "/home/kevin/Documentos/ASP.NET/BrowserJobs/MvcBrowserJobs.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "/home/kevin/.nuget/packages/microsoft.codeanalysis.razor/6.0.9/microsoft.codeanalysis.razor.6.0.9.nupkg.sha512",
     "/home/kevin/.nuget/packages/microsoft.extensions.dependencymodel/6.0.0/microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
     "/home/kevin/.nuget/packages/microsoft.netcore.platforms/2.1.2/microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "/home/kevin/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/home/kevin/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/home/kevin/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/home/kevin/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",

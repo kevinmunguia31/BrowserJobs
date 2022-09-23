@@ -696,3 +696,5 @@
 /home/kevin/Documentos/ASP.NET/BrowserJobs/obj/Debug/net6.0/ref/MvcBrowserJobs.dll
 /home/kevin/Documentos/ASP.NET/BrowserJobs/obj/Debug/net6.0/MvcBrowserJobs.pdb
 /home/kevin/Documentos/ASP.NET/BrowserJobs/obj/Debug/net6.0/MvcBrowserJobs.genruntimeconfig.cache
+/home/kevin/Documentos/ASP.NET/BrowserJobs/bin/Debug/net6.0/Models/Jobs.json
+/home/kevin/Documentos/ASP.NET/BrowserJobs/bin/Debug/net6.0/Newtonsoft.Json.dll
