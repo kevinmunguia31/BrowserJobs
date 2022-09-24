@@ -51,40 +51,17 @@
 
 @foreach(var item in Model){
     @* Perfiles de los Usuarios *@
-    <div class="container profile-page">
-        <div class="row">
-            <div class="col-xl-6 col-lg-7 col-md-12">
-                <div class="card profile-header">
-                    <div class="body shadow-lg">
-                        <div class="row">
-                            <div class="col-lg-4 col-md-4 col-12">
-                                <div class="profile-image float-md-right"> <img src="@item.Perfil" alt=""> </div>
-                            </div>
-                            <div class="col-lg-8 col-md-8 col-12">
-                                <h4 class="m-t-0 m-b-0"><strong>@item.Nombre</strong></h4>
-                                <span class="job_post">@item.Profesion</span><br>
-                                <span class="job_post">@item.Categoria</span>
-                                <p>@item.Municipio, <span>@item.Departamento</span></p>
-                                <div>
-                                    <a href="/Jobs/Details/@item.Id" class="btn btn-primary btn-round">Ver Perfil <i class="fa-solid fa-eye"></i></a>
-                                </div>
-                                <form>
-                                    <p class="clasificacion">
-                                        <input id="radio1" type="radio" name="estrellas" value="5">
-                                        <label for="radio1">★</label>
-                                        <input id="radio2" type="radio" name="estrellas" value="4">
-                                        <label for="radio2">★</label>
-                                        <input id="radio3" type="radio" name="estrellas" value="3">
-                                        <label for="radio3">★</label>
-                                        <input id="radio4" type="radio" name="estrellas" value="2">
-                                        <label for="radio4">★</label>
-                                        <input id="radio5" type="radio" name="estrellas" value="1">
-                                        <label for="radio5">★</label>
-                                    </p>
-                                </form>
-                            </div>                
-                        </div>
-                    </div>                    
+    <div class="card mb-3 me-md-3" style="max-width: 530px; max-height: 182px;">
+        <div class="row g-0">
+            <div class="col-md-4">
+                <img src="@item.Perfil" class="img-fluid rounded-start" alt="...">
+            </div>
+            <div class="col-md-6">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Nombre</h5>
+                    <p class="card-text">@item.Profesion, (<small class="text-muted">@item.Categoria</small>)</p>
+                    <p class="card-text"><small class="text-muted">@item.Municipio, @item.Departamento</small></p>
+                    <a class="" href="/Jobs/Details/@item.Id"> Ver Perfil <i class="fa-sharp fa-solid fa-arrow-up-right-from-square"></i></a>
                 </div>
             </div>
         </div>
