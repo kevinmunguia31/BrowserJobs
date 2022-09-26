@@ -25,11 +25,14 @@ namespace BrowserJobs.Controllers
         public IActionResult Find(string profesion, string departamento, string municipio)
         {
             List<Jobs> lstResultJobs = new List<Jobs>();
-            foreach (var item in lstJobs)
+            lstResultJobs = lstJobs.Where(jobs => jobs.Profesion.ToLower().Contains(profesion.ToLower()))
+            .Where(jobs => jobs.Departamento.ToLower().Contains(departamento.ToLower())).ToList(); 
+
+            /* foreach (var item in lstJobs)
             {
                 if(item.Profesion.ToLower().Contains(profesion.ToLower()) || item.Departamento.ToLower().Contains(departamento.ToLower()) || item.Municipio.ToLower().Contains(municipio.ToLower()))
                     lstResultJobs.Add(item);
-            }
+            } */
             return View("Index", lstResultJobs);
         }
 
